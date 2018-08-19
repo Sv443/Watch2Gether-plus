@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Sv443/code/master/resources/favicons/watch2gether%2B%20icon.png" /> Watch2Gether+ - Use Tamper- or GreaseMonkey to add a few helpful features to Watch2Gether
+# <img src="https://raw.githubusercontent.com/Sv443/code/master/resources/favicons/watch2gether%2B%20icon.png" width="50px" height="50px" /> Watch2Gether+ - Use Tamper- or GreaseMonkey to add a few helpful features to Watch2Gether
 
 
 # Current Features:
